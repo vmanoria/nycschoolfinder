@@ -1,7 +1,7 @@
 {
   "name": "NYCSchoolFinder",
   "version": "0.0.1",
-  "description": "NYCSchoolFinder - Watson Hackathon Project",
+  "description": "NYCSchoolFinder - Watson Demo Project",
   "dependencies": {
     "async": "^0.9.0",
     "body-parser": "~1.11.0",
@@ -23,11 +23,11 @@
     "type": "git",
     "url": "https://github.com/havasnewyork/nycschoolfinder.git"
   },
-  "author": "Havas Worldwide New York.",
+  "author": "Worldwide New York.",
   "contributors": [
     {
-      "name": "Kevin Haggerty",
-      "email": "kehagger@us.ibm.com"
+      "name": "Vikas Manoria",
+      "email": "vmanoria@in.ibm.com"
     }
   ],
   "scripts": {
